@@ -3,14 +3,16 @@ Fire incidents in Cincinnati are a persistent issue that poses a threat to publi
 ### Data set
 Downlaod your dat set from cincinnati open data portal https://data.cincinnati-oh.gov
 ### libraries
-import pandas as pd
-import numpy as np
-import seaborn as sns
-!pip install folium
-import folium
-from folium.plugins import HeatMap
-!pip install prophet
-from prophet import prophet
+
+1. import pandas as pd
+2. import numpy as np
+3. import seaborn as sns
+4.!pip install folium
+5. import folium
+6. from folium.plugins import HeatMap
+7. !pip install prophet
+8. from prophet import prophet
+
 
 ### some analysis
 ![Screenshot3](https://user-images.githubusercontent.com/53073274/233814614-272a4095-7ac2-4c7f-9c18-074fa026cd71.png)
